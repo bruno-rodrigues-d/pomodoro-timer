@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - ReactJS
 - Styled components
+- Context API
 
 ## 🚧 Projeto - Em construção:
 
