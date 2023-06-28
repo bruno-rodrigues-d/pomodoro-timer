@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled components
 - Context API
 
-## 🚧 Projeto - Em construção:
+## 💻 Projeto:
 
 2° projeto do módulo de ReactJS do curso Ignite.
 
